@@ -1,0 +1,6 @@
+pandas
+missingno
+matplotlib
+openpyxl
+supabase
+psycopg2
