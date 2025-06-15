@@ -28,8 +28,7 @@ Split into organized columns:
 ![Top 15 DTCs](https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/f9ecab53988f5f4b50a9c8f675f51ba4ce2a7b2d/images/top_dtcs.png)
 
 
-![Distribution from a given DTC accross Vehicle's Manufacturers](images\p0633_top_10_hdw_pn_occerence.png)
-*Distribution of given DTC Across Vehicle Makes
+![Distribution from a given DTC accross Vehicle's Manufacturers](https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/c5b80bc6b1c9fa741f2bb8e5d2a8d8206e923ea7/images/code_p0633_distr._make.png)
 
-![Top 10 Hardware Part Numbers Ocurrence from a give DTC](images\p0633_top_10_hdw_pn_occerence.png)
-*Top 10 Hardware with Highest DTC Occurrence
+
+![Top 10 Hardware Part Numbers Ocurrence from a give DTC](https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/c5b80bc6b1c9fa741f2bb8e5d2a8d8206e923ea7/images/p0633_top_10_hdw_pn_occerence.png)
