@@ -1,3 +1,6 @@
+-- Create a new database
+CREATE DATABASE diagnostic_data_table;
+
 -- Create the table on the Postgres local database
 create table df_zoho_google_cleaned(
   created_time TEXT,
