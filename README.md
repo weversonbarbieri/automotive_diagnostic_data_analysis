@@ -23,7 +23,6 @@ Split into organized columns:
 - resolution: Final case outcome
 
 ## Sample Analysis Results
-*Diagnostic Performance / Technician
 ![Tech performance](https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/b0bc0a508f6b1877b07cb523dc0775d57a6a6d40/images/diag_performance_tech_24.png)
 
 *Top 15 DTCs
