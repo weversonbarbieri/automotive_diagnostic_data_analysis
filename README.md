@@ -23,11 +23,12 @@ Split into organized columns:
 - resolution: Final case outcome
 
 ## Sample Analysis Results
-![Tech performance](https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/e061c6c532e274c44c9278b5fe25b39a2c2a8d52/images/code_p0633_distr._make.png)
 *Diagnostic Performance / Technician
+![Tech performance](https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/b0bc0a508f6b1877b07cb523dc0775d57a6a6d40/images/diag_performance_tech_24.png)
 
-![Top DTCs Occrences](images\top_dtcs.png)
 *Top 15 DTCs
+![Top DTCs Occrences](https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/b0bc0a508f6b1877b07cb523dc0775d57a6a6d40/images/p0633_top_10_hdw_pn_occerence.png)
+
 
 ![Distribution from a given DTC accross Vehicle's Manufacturers](images\p0633_top_10_hdw_pn_occerence.png)
 *Distribution of given DTC Across Vehicle Makes
