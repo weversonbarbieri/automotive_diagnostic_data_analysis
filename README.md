@@ -25,9 +25,7 @@ Split into organized columns:
 ## Sample Analysis Results
 ![Tech performance](https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/b0bc0a508f6b1877b07cb523dc0775d57a6a6d40/images/diag_performance_tech_24.png)
 
-*Top 15 DTCs
-
-(https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/f9ecab53988f5f4b50a9c8f675f51ba4ce2a7b2d/images/top_dtcs.png)
+![Top 15 DTCs](https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/f9ecab53988f5f4b50a9c8f675f51ba4ce2a7b2d/images/top_dtcs.png)
 
 
 ![Distribution from a given DTC accross Vehicle's Manufacturers](images\p0633_top_10_hdw_pn_occerence.png)
