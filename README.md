@@ -23,7 +23,7 @@ Split into organized columns:
 - resolution: Final case outcome
 
 ## Sample Analysis Results
-![Tech performance](images\diag_performance_tech_24.png)
+![Tech performance](https://github.com/weversonbarbieri/automotive_diagnostic_data_analysis/blob/raw/images/code_p0633_distr._make.png)
 *Diagnostic Performance / Technician
 
 ![Top DTCs Occrences](images\top_dtcs.png)
