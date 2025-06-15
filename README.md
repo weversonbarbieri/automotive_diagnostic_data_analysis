@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Automotive Diagnostic Data Analysis Project
 #### Overview
 This project analyzes automotive diagnostic data focusing on DTCs (Diagnostic Trouble Codes), vehicle manufacturers and hardware correlations. The analysis helps identify patterns in vehicle diagnostics and common failure points.
@@ -35,3 +36,10 @@ Split into organized columns:
 
 ![Top 10 Hardware Part Numbers Ocurrence from a give DTC](images\p0633_top_10_hdw_pn_occerence.png)
 *Top 10 Hardware with Highest DTC Occurrence
+=======
+### Automotive Diagnostic Data Analysis Project
+#### Overview
+This project analyzes automotive diagnostic data focusing on DTCs (Diagnostic Trouble Codes), vehicle manufacturers, hardware and technicians performance correlations. The analysis helps identify patterns in vehicle diagnostics and common failure points.
+
+Project in working progress.
+>>>>>>> fe2fb071962b326adbb24ea5f1326ac8fa8a6f35
